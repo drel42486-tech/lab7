@@ -1,2 +1,3 @@
 This is my first commit!
 This is sime new text.
+Text for three commit.
